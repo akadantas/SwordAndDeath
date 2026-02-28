@@ -30,7 +30,7 @@ Gerencie sua vida, escolha seus ataques e tente sobreviver o máximo possível.
 - 🛡️ Equipamentos e armas
 - 👾 Novos tipos de inimigos
 - 🏆 Sistema de chefes
-- ⬆️ Sistema de level e pontos
+- ⬆️ Sistema de level e ganho de estatísticas
 ---
 
 ## 🖥️ Como jogar
